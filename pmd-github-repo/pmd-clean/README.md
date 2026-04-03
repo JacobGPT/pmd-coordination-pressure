@@ -1,6 +1,6 @@
 # Pressure Makes Diamonds: Coordination Pressure as a Consciousness Metric
 
-**Preprint:** [bioRxiv link forthcoming]
+**Preprint:* https://zenodo.org/records/19393842)
 
 **Author:** Jacob Beach (Independent Research)
 
