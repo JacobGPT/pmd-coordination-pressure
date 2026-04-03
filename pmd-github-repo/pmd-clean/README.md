@@ -1,6 +1,6 @@
 # Pressure Makes Diamonds: Coordination Pressure as a Consciousness Metric
 
-**Preprint:* https://zenodo.org/records/19393842)
+**Preprint:* https://zenodo.org/records/19393842
 
 **Author:** Jacob Beach (Independent Research)
 
@@ -146,8 +146,8 @@ The multiplicative I × C × G structure is not decorative — C alone misclassi
          Sedation},
   author={Beach, Jacob},
   year={2026},
-  journal={bioRxiv},
-  doi={forthcoming}
+  journal={zenodo},
+  doi={https://doi.org/10.5281/zenodo.19393841}
 }
 ```
 
